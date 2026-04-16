@@ -464,7 +464,7 @@ h1{
         margin-bottom: 10px;
         display: block;
     }
-    .left_container > button.two { margin-left: 0; margin-top: 10px; }
+    .left_container > button.two { margin-left: 0; margin-top: 10px; padding-bottom: 50px; }
 
     /* --- Social links --- */
     .links {
